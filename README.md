@@ -1,4 +1,4 @@
-# Sales-Analysis-using-Excel
+# Chocolate-Sales-Analysis-using-Excel
 1. Descriptive Statistics
 	- Average
 	- Medium
