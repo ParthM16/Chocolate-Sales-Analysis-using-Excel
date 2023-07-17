@@ -74,6 +74,6 @@
 
 	- Insights: Almond Choco product brings less amount and less profit % compared to others
 
-	- one level deeper: see results based on country level
+	- one level deeper: see results based on country level using **slicer**
 	<img src="https://github.com/ParthM16/Sales-Analysis-using-Excel/assets/136796479/f83ac09d-c3e0-4d0c-a68d-f43bf31a7157" alt="USA Details">
  
